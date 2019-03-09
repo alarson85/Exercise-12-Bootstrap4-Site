@@ -16,3 +16,10 @@ body {
     color: #EA1c2C;
     font-size: 1.5rem;
 }
+.imgs {
+    width: 100%;
+    height: auto;
+}
+p {
+    text-align: center;
+}
